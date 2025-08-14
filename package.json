@@ -65,6 +65,7 @@
     "package:desktop:test:mac": "lerna run --stream --scope @mockoon/app package:test:mac",
     "package:desktop:test:linux": "lerna run --stream --scope @mockoon/app package:test:linux",
     "deploy:web": "lerna run --stream --scope @mockoon/app deploy:web",
+    "start:web": "lerna run --stream --scope @mockoon/app start:web",
     "documentation:desktop": "lerna run --stream --scope @mockoon/app documentation"
   },
   "devDependencies": {
